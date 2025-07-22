@@ -1,4 +1,22 @@
-# Byte-compiled / optimized / DLL files
+
+# Secrets & credentials
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# Mac system files
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Streamlit logs
+*.log
+
 __pycache__/
 *.py[codz]
 *$py.class
